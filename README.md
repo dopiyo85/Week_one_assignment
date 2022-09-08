@@ -5,18 +5,22 @@
 ## Description
 {This is a project about the biography of Diana, the purpose and usage of the project is state more information on Diana's hobbies, interests and skills. This project is my first assignment for week one and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* This is a great place to be, to learn more on Diana
+* You will learn on Diana's Background including education, job experience etc.
+* You will learn on Diana's reason for doing the course.
+* The project is easy-to-understand
+* Just click on the hyperlinks that will direct you to view Github projects.
+
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{There are no known bugs on this project.}
+
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.}
+
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: dopiyo@gmail.com to make a contribution to the code or for any assistance on the app/project.}
+
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*{The License used is GPL}*
+
+Copyright (c) {2022} **{Diana Opiyo}**
