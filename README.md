@@ -1,9 +1,9 @@
 
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {Diana's Biography}
+#### {This project is about the biography of Diana}, {Version Date: 9th Sept 2022}
+#### By **{Diana Opiyo}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is a project about the biography of Diana, the purpose and usage of the project is state more information on Diana's hobbies, interests and skills.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
