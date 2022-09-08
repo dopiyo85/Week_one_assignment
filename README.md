@@ -3,7 +3,7 @@
 #### {This project is about the biography of Diana}, {Version Date: 9th Sept 2022}
 #### By **{Diana Opiyo}**
 ## Description
-{This is a project about the biography of Diana, the purpose and usage of the project is state more information on Diana's hobbies, interests and skills.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is a project about the biography of Diana, the purpose and usage of the project is state more information on Diana's hobbies, interests and skills. This project is my first assignment for week one and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
