@@ -24,3 +24,10 @@ li
 {
   font-style: oblique;  
 }
+h3
+{
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: rgb(5, 187, 60);
+    text-decoration: underline;
+    text-align: left; 
+}
