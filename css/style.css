@@ -16,3 +16,7 @@ p {
   font-size: medium;
   font-style: oblique;
 }
+body
+{
+    background-color: pink;
+}
