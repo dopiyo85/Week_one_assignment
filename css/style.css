@@ -16,18 +16,15 @@ p {
   font-size: medium;
   font-style: oblique;
 }
-body
-{
-    background-color: pink;
+body {
+  background-color: pink;
 }
-li
-{
-  font-style: oblique;  
+li {
+  font-style: oblique;
 }
-h3
-{
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    color: rgb(5, 187, 60);
-    text-decoration: underline;
-    text-align: left; 
+h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(5, 187, 60);
+  text-decoration: underline;
+  text-align: left;
 }
