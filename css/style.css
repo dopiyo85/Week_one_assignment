@@ -15,6 +15,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: medium;
   font-style: oblique;
+  text-align: justify;
 }
 body {
   background-color: pink;
@@ -28,14 +29,13 @@ h3 {
   text-decoration: underline;
   text-align: left;
 }
-div
-{
+div {
   width: 750px;
   border: 15px;
   padding: 5px;
   margin: 5px;
 }
-img
-{
-  float: left;margin: 10px; 
+img {
+  float: left;
+  margin: 10px;
 }
