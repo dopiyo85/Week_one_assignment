@@ -4,6 +4,10 @@ h1 {
   text-decoration: underline;
   text-align: center;
   font-style: italic;
+  width: 750px;
+  border: 15px;
+  padding: 5px;
+  margin: 5px;
 }
 h2 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
