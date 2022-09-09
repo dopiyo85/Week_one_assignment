@@ -15,6 +15,9 @@ This is a project about the biography of Diana, the purpose and usage of the pro
 - You will learn on Diana's reason for doing the course.
 - The project is easy-to-understand
 - Just click on the hyperlinks that will direct you to view Github projects.
+- Git clone https://github.com/dopiyo85/Week_one_assignment.git
+- Open cloned code on VS code
+- Run on live server
 
 ## Known Bugs
 
@@ -30,7 +33,7 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 ## Github URL Link
 
-To be able to view the project click on https://github.com/dopiyo85/Week_one_assignment.git
+To be able to view the project click on https://dopiyo85.github.io/Week_one_assignment.git
 
 ### License
 
