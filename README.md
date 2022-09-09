@@ -28,6 +28,10 @@ Languages used include HTML and CSS. I have used editor Visual Studio Code for c
 
 If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: dopiyo@gmail.com to make a contribution to the code or for any assistance on the app/project.
 
+## Github URL Link
+
+To be able to view the project click on https://github.com/dopiyo85/Week_one_assignment.git
+
 ### License
 
 _The License used is GPL_
